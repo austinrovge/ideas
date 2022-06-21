@@ -1,2 +1,2 @@
 # ideas
-Future side project ideas 
+Side project ideas 
