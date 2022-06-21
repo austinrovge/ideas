@@ -1,6 +1,6 @@
 # democracy-bot
 
-Have power hungry friends? Boy, do I have the idea for you!
+Trouble being a discord server owner? Have power hungry friends? Boy, do I have the idea for you!
 
 Being a discord server owner is hard work with trying to appease everyone who care about the most minute details. Now you can hide behind a bot and blame it for inaction!
 
