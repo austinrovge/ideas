@@ -1,9 +1,9 @@
 # beeg-app
 
-There are countless times when I'm lifting and I want to double check:
-1. What the proper form is
-2. What exact muscle this exercise is working
-3. What exercise I should do to target a specific muscle
+There are countless times when I'm lifting and I am curious/want:
+1. What's proper form?
+2. What exact muscle is this exercise working?
+3. What exercise I should do to target a specific muscle?
 4. Visual indicator of eccentric/concentric/pause at peak of rep
     * Apple Watch integration 👀
 6. What my last PR was for an exercise (journaling)
