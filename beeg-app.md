@@ -12,7 +12,7 @@ There are countless times when I'm lifting and I am curious/want:
 
 This is pretty similar to [MuscleWiki](https://apps.apple.com/us/app/musclewiki-fitness/id1096827640). I downloaded this app years ago but haven't ever used it. Actually, opening it again while writing this shows that it addresses #1 (indirectly), #2 (kinda), and #3. It even has a cool calorie, macro, and one rep max calulator in it!
 
-However, it feels sluggish when scrolling through the list of exercises for a muscle as the infinite scroll loads more exercises. Searching for an exercise (#2) takes me to a web page (using `SFSafariViewController`) with a list of results which feels clunky. I'd like to see more tips/tricks around form (#1) and even more from it. That makes it perfect to work on!
+However, it feels sluggish when scrolling through the list of exercises for a muscle as the infinite scroll loads more exercises. Searching for an exercise (#2) takes me to a web page (using `SFSafariViewController`) with a list of results which feels clunky. I'd like to see more tips/tricks around form (#1) and even more from it.
 
 #7 is similar to [Iron Path](https://apps.apple.com/us/app/iron-path/id955364910). However this app doesn't seem like it's been updated in some time. The app renders in a smaller phone size that isn't native to iPhone 12 Pro Max. A "Shake to send Feedback" box appears as well! Haven't seen that in a while.
 
