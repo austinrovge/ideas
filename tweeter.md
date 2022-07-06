@@ -6,7 +6,7 @@ Originally when I took se4910 (Mobile Application Development - Android), I plan
 
 I vaguely remember reading twitter's API docs and being a bit confused at navigating it. I'm lazy and don't feel like rereading it or applying for another dev account, so the scope could be expanded to include a simple API/DB to act as a simpler twitter. That would be nice for being able to do some cloud things since I haven't had too many good side project ideas in that domain.  
 
-### Technology
+### Technologies
 
 * Kotlin
 * Jetpack compose
